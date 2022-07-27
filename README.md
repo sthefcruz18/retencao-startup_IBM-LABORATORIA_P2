@@ -40,29 +40,30 @@
 
 ## Entregas e Conclusões: <br>
 📝**Porcentagem de retenção de clientes por mês**
-<br> ![IMAGEM]
+<br><img src="https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/1.retencao_mes.png"/><br>
 
 📝**Porcentagem de retenção de clientes por trimestre**
-<br> ![IMAGEM]
+<br><img src="https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/2.retencao_trimestral.png"/><br>
 
 📝**Porcentagem de rotatividade / churn de clientes por mês**
-<br> ![IMAGEM]
+<br><img src="https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/3.churn_mensal.png"/><br>
+
 
 📝**Porcentagem de rotatividade / churn de clientes por trimestre**
-<br> ![IMAGEM]
+<br><img src= "https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/4.churn_trimestral.png"/><br>
 
 📝**Análise mês ou trimestre em que eles perderam mais clientes:** 
 O coorte com maior % de cancelamento foi mar/2022 ou mês 22, novamente próximo ao finalização do segundo ano. É necessário analisar o perfil dos assinantes que chegam nesse período e verificar por exemplose houve mudanças no seu perfil. Talvez o produto não atenda mais o perfil atual, Talvez houve finalização de alguma promoção ou Talvez seja o fim do período de permanência obrigatória. Verificar o perfil do assinante e do produto para o coorte dez/2019, pois deste coorte não houve nenhum cancelamento.
 
 📝**Como podemos ver no gráfico abaixo, a startup ainda não atingiu o PMF. Portanto, recomenda-se usar o investimento recebido na melhora do produto / serviço.**
-<br> ![IMAGEM]
+<br><img src= "https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/5.grafico_PMF.png"/><br>
 
 ## Dataset:
-💻 Os dados são públicos e fictícios. <br>
+💻 Os dados são públicos e fictícios<br>
 💻 Podem ser escontrados <a href="https://andrewchen.com/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/">clicando aqui</a> <br>
 
 💻 Dataset mensal
-<br> ![IMAGEM]
+<br><img src= "https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/6.dataset_mensal.png"/><br>
 
 💻 Dataset trimestral
-<br> ![IMAGEM]
+<br><img src= "https://github.com/sthefcruz18/retencao-startup_IBM-LABORATORIA_P2/blob/3ee82f31056bc53f49d86c1858bc088da2827725/7.dataset_trimestral.png"/><br>
